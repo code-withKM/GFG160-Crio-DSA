@@ -1,3 +1,4 @@
+package Arrays;
 class Rotate2{
 
     public void cyclic2(int[] a, int k, int n) {

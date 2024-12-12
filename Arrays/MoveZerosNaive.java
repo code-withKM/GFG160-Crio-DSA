@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MoveZerosNaive {
 
     public static void main(String args[]){
